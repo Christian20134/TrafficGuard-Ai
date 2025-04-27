@@ -10,3 +10,6 @@ and then:
 python getRouterData.py
 
 and whatever info you put in the .env file should show up there. that shows the .env is doing its job
+
+After that simply startup the backend and once you start the frontend you should see some messages of whaether or not the program successfully shhed into the router!
+
