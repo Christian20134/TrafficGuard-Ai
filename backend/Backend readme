@@ -3,13 +3,7 @@ Ok so this is for testing the paramterising of routers so ill keep this short. t
 
 Dotenv is required to use os which is imported in the .config file.
 
-After that make sure you:
-cd backend
+**NOTE** before starting the backend ensure the .env file has your routers correct information!!!!!!1
 
-and then:
-python getRouterData.py
-
-and whatever info you put in the .env file should show up there. that shows the .env is doing its job
-
-After that simply startup the backend and once you start the frontend you should see some messages of whaether or not the program successfully shhed into the router!
+After that simply startup the backend and once you start the frontend you should see some messages of whether or not the program successfully shhed into the router!
 
