@@ -1,0 +1,12 @@
+Ok so this is for testing the paramterising of routers so ill keep this short. theres a .env in the backend files its important its there and contains basic router like before, its imperative you do the following command:
+--pip install python-dotenv
+
+Dotenv is required to use os which is imported in the .config file.
+
+After that make sure you:
+cd backend
+
+and then:
+python getRouterData.py
+
+and whatever info you put in the .env file should show up there. that shows the .env is doing its job
